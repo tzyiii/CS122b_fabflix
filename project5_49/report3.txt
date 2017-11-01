@@ -1,0 +1,2 @@
+Jmeter Report address: 
+http://35.164.71.37:8080/fabflix_webapp/Jmeter_report.html
